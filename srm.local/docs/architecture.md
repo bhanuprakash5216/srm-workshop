@@ -1,4 +1,6 @@
 # B.Arch
+
+
 ## Semester I
 #### 25ARC101S Basic Design Studio 0 0 12 6 
 #### 25ARC103P Architectural Graphics 2 0 4 4 
@@ -8,8 +10,7 @@
 #### NSS / NCC  0 0 2 0 
 
 
-## SEM-2
-
+## Semester-2
    
 #### 25ARC102S Architectural Design Studio - I 0 0 12 6 
 #### 25ARC104P Building Materials &  
@@ -35,12 +36,33 @@
 
 
 
-## SEMESTER-IV
-
+## Semester-IV
 
 #### 25ARC202S Architectural Design Studio - III 0 0 14 7 
 #### 25ARC204J Climate Responsive Architecture 2 0 2 3 
 #### 25ARC206T Building Structures - I 3 0 0 3 
 #### Discipline Elective Course - IV 2 0 4 4 
 #### Discipline Elective Course - V 2 0 4 4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Semester-VI
+
+#### 25ARC302S Architectural Design Studio - V 0 0 14 7 
+#### 25ARC304J Town Planning & Human 
+#### Settlements 2 0 2 3 
+#### 25ARC306J Building Science 2 0 2 3 
+#### 25ARU308J Building Services - II 2 0 2 3 
+### Discipline Elective Course - VII 2 0 4 4 
 
