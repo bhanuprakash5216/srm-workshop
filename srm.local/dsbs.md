@@ -12,4 +12,9 @@ Computer Networks,
 Software Engineering and Project Management, 
 Compiler Design
 
- 
+ ## Basic Science Courses (B) ##
+ Semiconductor Physics and Computational Methods,
+ Calculus and Linear Algebra, 
+ Statistical Modeling, 
+ Probability and Statistics, 
+ Discrete Mathematics,
